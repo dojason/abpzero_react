@@ -1,0 +1,21 @@
+{
+    "remoteServiceBaseUrl": "http://127.0.0.1:22742",
+    "appBaseUrl": "http://127.0.0.1:8000",
+    "localeMappings": {
+      "moment": [
+        {
+          "from": "es-MX",
+          "to": "es"
+        },
+        {
+          "from": "zh-Hans",
+          "to": "zh-cn"
+        },
+        {
+          "from": "vi",
+          "to": "en-gb"
+        }
+      ]
+    }
+  }
+  
